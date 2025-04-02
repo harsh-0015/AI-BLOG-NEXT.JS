@@ -1,8 +1,12 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 📖 Overview
+
 This is a dynamic and responsive blog application built using modern web technologies. It is a modern fast programming blog built with Next.js.
 This blog is fully responsive, but it looks best on the desktop screens.
+
+
+
 🚀🚀TECH STACK
 • Next.js  
 • Tailwind CSS  
