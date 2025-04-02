@@ -25,7 +25,7 @@ Features
 
  ✔️Markdown blog content
 
- ✔️✔Responsive design with Tailwind CSS
+ ✔️Responsive design with Tailwind CSS
 
  ✔️Fast page loading within version 15.2.4
 
