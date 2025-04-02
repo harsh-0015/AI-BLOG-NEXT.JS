@@ -8,6 +8,8 @@ This blog is fully responsive, but it looks best on the desktop screens.
 
 
 🚀🚀TECH STACK
+
+
 • Next.js  
 • Tailwind CSS  
 • ShadCN UI  
