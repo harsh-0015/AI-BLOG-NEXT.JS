@@ -10,7 +10,7 @@ This blog is fully responsive, but it looks best on the desktop screens.
 🚀🚀TECH STACK
 
 
-• Framework: Next.js
+• Framework: Next.JS
 
 • Styling: Tailwind CSS , ShadcnUI
 
@@ -20,18 +20,24 @@ This blog is fully responsive, but it looks best on the desktop screens.
 
 • Language: JavaScript
 
+• Markdown Content Processing Tools : Remark , Rehype
+
 
 Features
 
- ✔️Markdown blog content
+ ✔️Markdown blog content.
 
- ✔️Responsive design with Tailwind CSS
+ ✔️Responsive design with Tailwind CSS.
 
- ✔️Fast page loading within version 15.2.4
+ ✔️Fast page loading.
 
- ✔️Mobile-friendly interface
+ ✔️Mobile and desktop friendly interface.
 
- ✔️Dark and light mode support
+ ✔️Dark and light mode support.
+
+ ✔️Scroll-to-Top Button – Visibility toggled with scroll tracking via useEffect.
+
+ ✔️Pre-rendered Pages – Get HTML from the server for faster first load.
 
 
 
